@@ -2,9 +2,8 @@
   "name": "carno-php/net",
   "license": "MIT",
   "require": {
-    "php": "^7.2",
-    "ramsey/uuid": "~3.8",
-    "carno-php/coroutine": "^1.0"
+    "carno-php/coroutine": "^1.0",
+    "ramsey/uuid": "~3.8"
   },
   "autoload": {
     "psr-4": {
